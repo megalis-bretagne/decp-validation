@@ -1,0 +1,373 @@
+{
+    "marches": {
+    "marche": [
+        {
+            "id": "H9O2024T0000256",
+            "_type": "Marché",
+            "acheteur": {
+                "id": "59920013600241"
+            },
+            "nature": "Marché",
+            "objet": "Confortement de la charpente de l’internat (bât B)\nRelance suite déclaration sans suite pour motif juridique - Démolition",
+            "codeCPV": "45111100",
+            "techniques": {
+                "technique": [
+                    "Sans objet"
+                ]
+            },
+            "modalitesExecution": {
+                "modaliteExecution": [
+                    "Sans objet"
+                ]
+            },
+            "marcheInnovant": false,
+            "ccag": "Travaux",
+            "offresRecues": 11,
+            "attributionAvance": false,
+            "tauxAvance": 0.0,
+            "typeGroupementOperateurs": "Pas de groupement",
+            "sousTraitanceDeclaree": false,
+            "actesSousTraitance": [
+                {
+                    "acteSousTraitance": {
+                        "id": 58696,
+                        "sousTraitant": {
+                            "typeIdentifiant": "SIRET",
+                            "id": "32933888305269"
+                        }
+                    }
+                }
+            ],
+            "procedure": "Appel d'offres ouvert",
+            "lieuExecution": {
+                "code": "22",
+                "typeCode": "Code département"
+            },
+            "dureeMois": 4,
+            "dateNotification": "2024-05-30",
+            "datePublicationDonnees": "2024-07-09",
+            "montant": 32122.0,
+            "typesPrix": {
+                "typePrix": [
+                    "Définitif révisable"
+                ]
+            },
+            "formePrix": "Forfaitaire",
+            "titulaires": [
+                {
+                    "titulaire": {
+                        "typeIdentifiant": "SIRET",
+                        "id": "32933888305269"
+                    }
+                }
+            ],
+            "considerationsSociales": {
+                "considerationSociale": [
+                    "Pas de considération sociale"
+                ]
+            },
+            "considerationsEnvironnementales": {
+                "considerationEnvironnementale": [
+                    "Pas de considération environnementale"
+                ]
+            },
+            "modificationsActesSousTraitance": [],
+            "modifications": []
+        },
+        {
+            "id": "H9O2024T0000356",
+            "_type": "Marché",
+            "acheteur": {
+                "id": "59920013600241"
+            },
+            "nature": "Marché",
+            "objet": "Confortement de la charpente de l’internat (bât B)\nRelance suite déclaration sans suite pour motif juridique - Charpente Bois - Confortement partiel et traitement",
+            "codeCPV": "45261100",
+            "techniques": {
+                "technique": [
+                    "Sans objet"
+                ]
+            },
+            "modalitesExecution": {
+                "modaliteExecution": [
+                    "Sans objet"
+                ]
+            },
+            "marcheInnovant": false,
+            "ccag": "Travaux",
+            "offresRecues": 11,
+            "attributionAvance": false,
+            "tauxAvance": 0.0,
+            "typeGroupementOperateurs": "Pas de groupement",
+            "sousTraitanceDeclaree": false,
+            "actesSousTraitance": [
+                {
+                    "acteSousTraitance": {
+                        "id": 58697,
+                        "sousTraitant": {
+                            "typeIdentifiant": "SIRET",
+                            "id": "35294162900029"
+                        }
+                    }
+                }
+            ],
+            "procedure": "Appel d'offres ouvert",
+            "lieuExecution": {
+                "code": "22",
+                "typeCode": "Code département"
+            },
+            "dureeMois": 4,
+            "dateNotification": "2024-05-30",
+            "datePublicationDonnees": "2024-07-09",
+            "montant": 146780.0,
+            "typesPrix": {
+                "typePrix": [
+                    "Définitif révisable"
+                ]
+            },
+            "formePrix": "Forfaitaire",
+            "titulaires": [
+                {
+                    "titulaire": {
+                        "typeIdentifiant": "SIRET",
+                        "id": "35294162900029"
+                    }
+                }
+            ],
+            "considerationsSociales": {
+                "considerationSociale": [
+                    "Pas de considération sociale"
+                ]
+            },
+            "considerationsEnvironnementales": {
+                "considerationEnvironnementale": [
+                    "Pas de considération environnementale"
+                ]
+            },
+            "modificationsActesSousTraitance": [],
+            "modifications": []
+        },
+        {
+            "id": "H9O2024T0000456",
+            "_type": "Marché",
+            "acheteur": {
+                "id": "59920013600241"
+            },
+            "nature": "Marché",
+            "objet": "Confortement de la charpente de l’internat (bât B)\nRelance suite déclaration sans suite pour motif juridique - Cloisons sèches - Isolation ",
+            "codeCPV": "45320000",
+            "techniques": {
+                "technique": [
+                    "Sans objet"
+                ]
+            },
+            "modalitesExecution": {
+                "modaliteExecution": [
+                    "Sans objet"
+                ]
+            },
+            "marcheInnovant": false,
+            "ccag": "Travaux",
+            "offresRecues": 11,
+            "attributionAvance": false,
+            "tauxAvance": 0.0,
+            "typeGroupementOperateurs": "Pas de groupement",
+            "sousTraitanceDeclaree": false,
+            "actesSousTraitance": [
+                {
+                    "acteSousTraitance": {
+                        "id": 58698,
+                        "sousTraitant": {
+                            "typeIdentifiant": "SIRET",
+                            "id": "42134020900129"
+                        }
+                    }
+                }
+            ],
+            "procedure": "Appel d'offres ouvert",
+            "lieuExecution": {
+                "code": "22",
+                "typeCode": "Code département"
+            },
+            "dureeMois": 4,
+            "dateNotification": "2024-05-30",
+            "datePublicationDonnees": "2024-07-09",
+            "montant": 33136.63,
+            "typesPrix": {
+                "typePrix": [
+                    "Définitif révisable"
+                ]
+            },
+            "formePrix": "Forfaitaire",
+            "titulaires": [
+                {
+                    "titulaire": {
+                        "typeIdentifiant": "SIRET",
+                        "id": "42134020900129"
+                    }
+                }
+            ],
+            "considerationsSociales": {
+                "considerationSociale": [
+                    "Pas de considération sociale"
+                ]
+            },
+            "considerationsEnvironnementales": {
+                "considerationEnvironnementale": [
+                    "Pas de considération environnementale"
+                ]
+            },
+            "modificationsActesSousTraitance": [],
+            "modifications": []
+        },
+        {
+            "id": "H9O2024T0000556",
+            "_type": "Marché",
+            "acheteur": {
+                "id": "59920013600241"
+            },
+            "nature": "Marché",
+            "objet": "Confortement de la charpente de l’internat (bât B)\nRelance suite déclaration sans suite pour motif juridique - Plomberie - Chauffage - Ventilation ",
+            "codeCPV": "45330000",
+            "techniques": {
+                "technique": [
+                    "Sans objet"
+                ]
+            },
+            "modalitesExecution": {
+                "modaliteExecution": [
+                    "Sans objet"
+                ]
+            },
+            "marcheInnovant": false,
+            "ccag": "Travaux",
+            "offresRecues": 11,
+            "attributionAvance": false,
+            "tauxAvance": 0.0,
+            "typeGroupementOperateurs": "Pas de groupement",
+            "sousTraitanceDeclaree": false,
+            "actesSousTraitance": [
+                {
+                    "acteSousTraitance": {
+                        "id": 58699,
+                        "sousTraitant": {
+                            "typeIdentifiant": "SIRET",
+                            "id": "43486131600017"
+                        }
+                    }
+                }
+            ],
+            "procedure": "Appel d'offres ouvert",
+            "lieuExecution": {
+                "code": "22",
+                "typeCode": "Code département"
+            },
+            "dureeMois": 4,
+            "dateNotification": "2024-05-30",
+            "datePublicationDonnees": "2024-07-09",
+            "montant": 19283.59,
+            "typesPrix": {
+                "typePrix": [
+                    "Définitif révisable"
+                ]
+            },
+            "formePrix": "Forfaitaire",
+            "titulaires": [
+                {
+                    "titulaire": {
+                        "typeIdentifiant": "SIRET",
+                        "id": "43486131600017"
+                    }
+                }
+            ],
+            "considerationsSociales": {
+                "considerationSociale": [
+                    "Pas de considération sociale"
+                ]
+            },
+            "considerationsEnvironnementales": {
+                "considerationEnvironnementale": [
+                    "Pas de considération environnementale"
+                ]
+            },
+            "modificationsActesSousTraitance": [],
+            "modifications": []
+        },
+        {
+            "id": "H9O2024T0000656",
+            "_type": "Marché",
+            "acheteur": {
+                "id": "59920013600241"
+            },
+            "nature": "Marché",
+            "objet": "Confortement de la charpente de l’internat (bât B)\nRelance suite déclaration sans suite pour motif juridique - Electricité CFO - SSI",
+            "codeCPV": "45311200",
+            "techniques": {
+                "technique": [
+                    "Sans objet"
+                ]
+            },
+            "modalitesExecution": {
+                "modaliteExecution": [
+                    "Sans objet"
+                ]
+            },
+            "marcheInnovant": false,
+            "ccag": "Travaux",
+            "offresRecues": 11,
+            "attributionAvance": false,
+            "tauxAvance": 0.0,
+            "typeGroupementOperateurs": "Pas de groupement",
+            "sousTraitanceDeclaree": false,
+            "actesSousTraitance": [
+                {
+                    "acteSousTraitance": {
+                        "id": 58700,
+                        "sousTraitant": {
+                            "typeIdentifiant": "SIRET",
+                            "id": "53516335600020"
+                        }
+                    }
+                }
+            ],
+            "procedure": "Appel d'offres ouvert",
+            "lieuExecution": {
+                "code": "22",
+                "typeCode": "Code département"
+            },
+            "dureeMois": 4,
+            "dateNotification": "2024-05-30",
+            "datePublicationDonnees": "2024-07-09",
+            "montant": 15800.0,
+            "typesPrix": {
+                "typePrix": [
+                    "Définitif révisable"
+                ]
+            },
+            "formePrix": "Forfaitaire",
+            "titulaires": [
+                {
+                    "titulaire": {
+                        "typeIdentifiant": "SIRET",
+                        "id": "53516335600020"
+                    }
+                }
+            ],
+            "considerationsSociales": {
+                "considerationSociale": [
+                    "Pas de considération sociale"
+                ]
+            },
+            "considerationsEnvironnementales": {
+                "considerationEnvironnementale": [
+                    "Pas de considération environnementale"
+                ]
+            },
+            "modificationsActesSousTraitance": [],
+            "modifications": []
+        }
+    ],
+
+    "contrat-concession": []
+}
+}
